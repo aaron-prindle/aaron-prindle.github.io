@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Some Thoughts
 ---
 
 Site hosted with [Github Pages](https://pages.github.com) using
