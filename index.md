@@ -9,9 +9,9 @@ Site hosted with [Github Pages](https://pages.github.com) using
 
 - [Overview](pages/overview.html)
 ---
-Stuff I've worked on [tutorials]
-[kubernetes/minikube](https://github.com/kubernetes/minikube),
-[runtimes-common/ftl](https://github.com/GoogleCloudPlatform/runtimes-common/tree/master/ftl),
-[grafeas/kritis](https://github.com/grafeas/kritis),
-[knative/build-pipeline](https://github.com/knative/build-pipeline),
+Stuff I've worked on:
+- [kubernetes/minikube](https://github.com/kubernetes/minikube)
+- [runtimes-common/ftl](https://github.com/GoogleCloudPlatform/runtimes-common/tree/master/ftl)
+- [grafeas/kritis](https://github.com/grafeas/kritis)
+- [knative/build-pipeline](https://github.com/knative/build-pipeline)
 
