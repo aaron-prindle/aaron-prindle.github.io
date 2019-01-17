@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Aaron Prindle's Blog
-tagline: Aaron Prindle's Personal Blog
+tagline: Musings and perusings  
 description: Musings about perusings
 ---
 
