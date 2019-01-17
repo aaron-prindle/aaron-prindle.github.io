@@ -1,8 +1,6 @@
 ---
 layout: page
-title: Aaron Prindle's Blog
-tagline: Musings and perusings  
-description: Musings about perusings
+title: Aaron Prindle
 ---
 
 Site hosted with [Github Pages](https://pages.github.com) using

@@ -8,12 +8,12 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : simple site
+title : Aaron Prindle
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  twitter : kwbroman
+  name : Aaron Prindle
+  email : aaprindle@gmail.com
+  github : aaron-prindle
+  twitter : aaronprindle
   feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
