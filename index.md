@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aaron Prindle
+title: Some Thoughts
 ---
 
 Site hosted with [Github Pages](https://pages.github.com) using
